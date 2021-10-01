@@ -1,0 +1,31 @@
+//sir i'm a bit confused whether i'm doing the pull reqs for hacktoberfest in right way or not! I'm my requests mean any mistakes, Feel free to comment and inform.
+// Akshay R K
+// PR: Number Triangle
+// Github - akshay-rk
+
+    #include<stdio.h>    
+    #include<stdlib.h>  
+    int main(){  
+      int ch=65;    
+        int i,j,k,l,n;
+        printf("Enter the number of rows you want in the triangle \n");
+        scanf("%d",&n);
+      system("cls");  
+        for(i=1;i<=n;i++)    
+        {    
+          for(j=1;j<=n-i;j++)    
+          {    
+          printf(" ");    
+          }    
+          for(k=1;k<=i;k++)    
+          {    
+            printf("%d",k);    
+          }    
+          for(l=i-1;l>=1;l--)    
+          {    
+            printf("%d",l);    
+          }    
+          printf("\n");    
+        }    
+        return 0;  
+     }  
