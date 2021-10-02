@@ -9,6 +9,8 @@ assignees: ''
 
 ## Description
 
+
+### Contributing Guidelines:
 - The code should include comments
 - There should be proper documentation (description, inputs, and outputs) contained in the README.md file.
 - The file should be in the proper directory (e.g., Python/project_directory/name_of_the_file)
