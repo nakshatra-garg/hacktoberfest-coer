@@ -1,6 +1,6 @@
 # Password Generator 
 
-A password generator is a tool that generates a random password for a user . A strong password mitigates the risk of password brute-forcing. We can specify the length of the password when we are generating it. A password of length 8 and more is considered to be a good password.
+A password generator is a tool that generates a random password for a user . A strong password mitigates the risk of password brute-forcing. We can specify the length of the password when we are generating it. A password of length 8 or more is considered to be a good password.
 
 
 ## Installation
