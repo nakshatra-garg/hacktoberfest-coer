@@ -13,7 +13,7 @@ git clone https://github.com/chiragtaneja04/hacktoberfest-coer.git
 ```bash
 cd hacktoberfest-coer  
 cd Python
-cd Password Generator
+cd Password\ Generator
 ```
 - Run the following command
 ```bash
