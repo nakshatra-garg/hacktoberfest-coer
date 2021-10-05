@@ -1,6 +1,6 @@
 # Description
 
-## Password Generator 
+## QR Code Generator 
 Create Dynamic QR Code Generator app using php. You can Create QR code with text or Website URL. I use Library for generate QR Code.
 QR Code save into images directory.
 
