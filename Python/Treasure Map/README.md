@@ -1,6 +1,6 @@
 # Treasure Map 
 
-Treasure allow you to store your treasure in your desired Location. It just a basic game that allow you to input a numerical value based on a 3*3 matrix and store a character in that given location.
+It allow you to store your treasure in your desired Location. It just a basic game that allow you to input a numerical value based on a 3*3 matrix and store a character in that given location.
 
 
 
