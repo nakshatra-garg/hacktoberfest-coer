@@ -32,7 +32,7 @@ To install simply include:
 ` QRcode::png('some othertext 1234'); // creates code image and outputs it directly into browser ` 
 
 
-Above examples show the most basic usage. For more features and customization see [Detailed examples](http://phpqrcode.sourceforge.net/examples/index.php) and  [PHP QR Code wiki](http://sourceforge.net/p/phpqrcode/wiki/) or read INSTALL file in distrribution package. For Further information see this API Documention [http://phpqrcode.sourceforge.net/docs/html/index.html](http://phpqrcode.sourceforge.net/docs/html/index.html)
+Above examples show the most basic usage. For more features and customization see [Detailed examples](http://phpqrcode.sourceforge.net/examples/index.php) and  [PHP QR Code wiki](http://sourceforge.net/p/phpqrcode/wiki/) or read INSTALL file in distribution package. For Further information see this API Documention [http://phpqrcode.sourceforge.net/docs/html/index.html](http://phpqrcode.sourceforge.net/docs/html/index.html)
 
 ## Screenshot of QR code app
 
