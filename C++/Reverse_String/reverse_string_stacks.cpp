@@ -3,7 +3,7 @@ Problem Description
 
 Given a string A of size N.
 
-Return the string A after reversing the string word by word.
+Return the string A after reversing the string word by word using stacks.
 
 NOTE:
 
