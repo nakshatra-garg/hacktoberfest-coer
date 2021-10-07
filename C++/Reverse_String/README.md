@@ -13,7 +13,7 @@ If there are multiple spaces between words, reduce them to a single space in the
 
 - Here's the sample input/output for the program
 
-![result](../../assets/result.png)
+![result](./result.png)
 
 ---------------------------------------------------------------------------
 
