@@ -36,7 +36,12 @@ python video_to_audio.py
 ```
 
 ## Screenshots
- 
+![Screenshot from 2021-10-15 14-03-34](https://user-images.githubusercontent.com/91545602/137460129-e567cdf0-8a1a-4132-aa83-3190c97cbff1.png)
+
+![Screenshot from 2021-10-15 14-04-14](https://user-images.githubusercontent.com/91545602/137460452-41a0ca54-fa2b-4e8f-b4ad-d0fa572f5e05.png)
+
+![Screenshot from 2021-10-15 14-04-19](https://user-images.githubusercontent.com/91545602/137460503-b5ad06ca-b9fa-43a8-b89c-562c82b64d81.png)
+
 
 ## Author
 
