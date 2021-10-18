@@ -1,20 +1,25 @@
+# importing string module for the alphabets
+import string
+
+# importing random module for getting the random number
 import random
 
-numbers = "0123456789"
-upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-lower = "abcdefghijklmnopqrstuvwxyz"
-symbols = "[]{}()*;/,._-"
+# list for the alphabets and numbets to create a password from.
+passw = []
 
-# Add the number, character and symbols
-sum = lower + upper + numbers + symbols
+# appending alphabets
+for i in string.ascii_lowercase:
+    passw.append(i)
+for i in string.ascii_uppercase:
+    passw.append(i)
 
-# Ask the user to enter length of the password
-length = int(input("Enter the password length: "))
+# appending number 0-10
+for i in range(10 + 1):
+    passw.append(i)
 
-# Shuffle the password
-shuffle = random.sample(sum, int(length))
-
-# Convert list to string
-password = "".join(shuffle)
-
+# password for concatenating random letter and number
+password = ""
+for i in range(int(input("Enter how long you want the password : "))):
+    letter = random.choice(passw)
+    password += str(letter)
 print(password)
