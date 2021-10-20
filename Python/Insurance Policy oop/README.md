@@ -1,7 +1,15 @@
 #Insurance policy in python oop
 
-- user's details through input ( name, age, insurance range, type of insurance he/she wants to apply)
-- output : how much he have to pay per year.
+- When user run the program user will be asked his/her name, age , how many year user want the policy 
+for and then user will be asked what type of policy does user want (vehicle/health insurance)
+if user choose vehicle insurance he will be asked about driving license 
+if user doesnt have that then there will be this output "user is not eligible for the policy"
+
+- if user choose health insurance the age will be checked if it is greater than 50 than 
+user is not eligible for the policy.
+
+- if in any of the upper cases user is eligible then the output will be of the installments
+user have to pay for the insurance.
 
 ## Installation
 
