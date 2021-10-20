@@ -1,5 +1,5 @@
 
-SWAPING USING POINTER
+//SWAPING USING POINTER
 
 #include<iostream>
 using namespace std;
