@@ -1,5 +1,3 @@
-// The code done by Abhishek kr singh ... B-tech CSE 1st year.....
-
 #include <math.h>
 #include <stdio.h>
 #include<conio.h>
